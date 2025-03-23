@@ -16,7 +16,7 @@ img {
 
 /* The hero section styling- use your OWN Hero Image URL here */
 .hero {
-    background-image: url('images/yourbanner-1130x160.png');
+    background-image: url('images/my\ banner.png');
     height: 25vh;
     background-size: cover;
     background-position: center;
@@ -39,7 +39,8 @@ img {
     color: white;
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: rgb(71, 71, 71);
+    background: linear-gradient(90deg, hsla(193, 66%, 77%, 1) 0%, hsla(193, 66%, 77%, 1) 100%);
+
 }
 
 /* Three column grid with a nice big gap */
@@ -55,7 +56,8 @@ img {
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgb(71, 71, 71);
+    background: linear-gradient(90deg, hsla(193, 66%, 77%, 1) 0%, hsla(193, 66%, 77%, 1) 100%);
+
     color: white;
     padding: 1em;
     border-radius: 0.5em;
@@ -73,7 +75,8 @@ img {
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
-    background-color: rgb(71, 71, 71);
+    background: linear-gradient(90deg, hsla(193, 66%, 77%, 1) 0%, hsla(193, 66%, 77%, 1) 100%);
+
     color: white;
     text-align: right;
     padding: 3em 3em;
